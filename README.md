@@ -5,15 +5,12 @@
 
 ## Credit Risk Analysis Report
 ### Overview 
-####  
-
-
-
-
-
+#### THe purpose of this analysis is to build a logistic regression model that can accurately identify the credit worthiness of an individual using a number of metrics. These metrics include the size of the loan, the income of the borrower, and the debt to income ratio to name a few. The initial logistic regression model created utilized the original imbalanced dataset, and the next model used resampled data. 
 
 ### Results
 
 
 
 ### Summary
+#### The logistic regression model predicts healthy and high-risk loans fairly well. The model appears to correctly make predictions with 99% accuracy.
+#### With the resampled data, the logistic regression model is more accurate in overall precision. But in regards to the precision of high-rish loans, the accuracy is lower than with the model using the imbalanced data by 1%. 
