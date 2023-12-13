@@ -9,10 +9,10 @@
 ---
 ### Results
 #### Model 1
-#### - Precision: 99%    Recall: 99%
+##### Precision: 99%    Recall: 99%
 
 #### Model 2
-#### Precision: 100%    Recall: 99%
+##### Precision: 100%    Recall: 99%
 
 ---
 ### Summary
